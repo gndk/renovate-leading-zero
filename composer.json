@@ -1,0 +1,13 @@
+{
+    "require": {
+        "symfony/cache": "^6.3",
+        "unleash/client": "1.8.081",
+        "symfony/http-client": "^6.3",
+        "nyholm/psr7": "^1.8"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}

@@ -1,8 +1,8 @@
 {
     "require": {
-        "symfony/cache": "^6.3",
+        "symfony/cache": "^7.0",
         "unleash/client": "1.8.081",
-        "symfony/http-client": "^6.3",
+        "symfony/http-client": "^7.0",
         "nyholm/psr7": "^1.8"
     },
     "config": {
